@@ -38,3 +38,6 @@ Projects
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eriiwilson&" alt="eriiwilson" /></p>
 
+
+![snake gif](https://github.com/eriiWilson/eriiWilson/blob/output/github-contribution-grid-snake.gif)
+
