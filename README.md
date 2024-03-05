@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Eric Wilson</h1>
 <h3 align="center">#MayThePythonBeWithYou</h3>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/46/16/3d/46163da5e8a1fa8e777a020607cddc1c.gif"> 
+<img align="right" alt="Coding" width="350" src="https://3.bp.blogspot.com/-fW7jTdIqi0w/VGGA0i_2YdI/AAAAAAAAD1s/0QiX4mxZ3C8/s1600/Chibi%2BHatsune%2BMiku%2Bgif%2BGambar%2Bgerak%2BCool.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eriiwilson&label=Profile%20views&color=0e75b6&style=flat" alt="eriiwilson" /> </p>
 
