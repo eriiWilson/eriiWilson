@@ -13,7 +13,7 @@
 
 -🎮 In my free time, I enjoy watching anime and playing some games (mostly LOL and Overwatch).
 
--🌌 Additionally, I'm a huge fan of Star Wars and consider myself a true nerd/geek.
+-🌌 Additionally, I'm a huge Star Wars fan.
 
 -👋 My name is Eric Wilson, but I prefer to be called by my nicknames Jesus or Yummy.
 
