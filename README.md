@@ -1,22 +1,27 @@
 [![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Eric Wilson</h1>
 <h3 align="center">#MayThePythonBeWithYou</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/46/16/3d/46163da5e8a1fa8e777a020607cddc1c.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eriiwilson&label=Profile%20views&color=0e75b6&style=flat" alt="eriiwilson" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-    🐍 Python is my main language, and I'm passionate about cybersecurity.
-    💼 Currently, I work as a Designer, but I'm seeking a transition to the cybersecurity field.
-    🎮 In my free time, I enjoy watching anime and playing some games (mostly LOL and Overwatch).
-    🌌 Additionally, I'm a huge fan of Star Wars and consider myself a true nerd/geek.
-    👋 My name is Eric Wilson, but I prefer to be called by my nicknames Jesus or Yummy.
+-🐍 Python is my main language, and I'm passionate about cybersecurity.
+
+-💼 Currently, I work as a Designer, but I'm seeking a transition to the cybersecurity field.
+
+-🎮 In my free time, I enjoy watching anime and playing some games (mostly LOL and Overwatch).
+
+-🌌 Additionally, I'm a huge fan of Star Wars and consider myself a true nerd/geek.
+
+-👋 My name is Eric Wilson, but I prefer to be called by my nicknames Jesus or Yummy.
 
 Projects
 
-    👀 I'm constantly working on projects related to cybersecurity, Python, and web development.
-    ❤️ I love feedback and contributions to my projects, so feel free to take a look and send your suggestions!
+-👀 I'm constantly working on projects related to cybersecurity, Python, and web development.
+
+-❤️ I love feedback and contributions to my projects, so feel free to take a look and send your suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
