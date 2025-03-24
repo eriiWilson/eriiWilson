@@ -9,13 +9,13 @@
 
 -🐍 Python is my main language, and I'm passionate about cybersecurity.
 
--💼 Currently, I work as a Designer, but I'm seeking a transition to backend development with Python..
+-💼 Currently, I just study
 
 -🎮 In my free time, I enjoy watching anime and playing some games
 
 -🌌 Additionally, I'm a huge Star Wars fan.
 
--👋 My name is Eric Wilson, but I prefer to be called by my nicknames Jesus or Derick.
+-👋 My name is Eric Wilson, but I prefer to be called by eric.
 
 Projects
 
