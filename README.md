@@ -7,30 +7,30 @@
 
 ---
 
-🔐 **Analista de Suporte de TI** em transição para **Cybersecurity**, com foco em proteção de dados, gestão de riscos e automações em Python.
+🔐 **IT Support Analyst** transitioning into **Cybersecurity**, focused on protecting data, managing risks, and building automations with Python.
 
-🎓 Estudante do programa **Google Cybersecurity Certificate**, aprendendo e aplicando conceitos como frameworks de segurança (NIST, OWASP), análise de logs, SIEM, Linux CLI, auditoria de segurança e vulnerabilidades.
-
----
-
-- 🐍 Python é minha principal linguagem e minha aliada na automação de tarefas de segurança.
-- 🛡️ Apaixonado por cibersegurança, com foco na proteção de organizações e pessoas.
-- 💼 Atualmente estudando e aplicando conhecimentos em segurança em meu trabalho como analista de suporte.
-- 🎮 Nos tempos livres, gosto de assistir animes e jogar alguns games.
-- 🌌 Fã de Star Wars de coração.
-- 👋 Me chamo Eric Wilson, mas pode me chamar só de **eric**.
+🎓 Currently enrolled in the **Google Cybersecurity Certificate**, learning and applying frameworks like NIST & OWASP, working with Linux CLI, SIEM tools, risk analysis, and security auditing.
 
 ---
 
-### 🛠️ Projetos e Estudo Contínuo
-
-- 🔍 Desenvolvendo projetos voltados a segurança defensiva, análise de riscos e automação.
-- 🗂️ Em breve portfólio com auditorias, simulações de incidentes, e estudos de caso.
-- ❤️ Feedbacks e colaborações são sempre bem-vindos!
+- 🐍 Python is my main language and my go-to for automation in security tasks.  
+- 🛡️ I'm passionate about cybersecurity and committed to helping organizations stay secure.  
+- 💼 Working as an IT Support Analyst while developing my skills in InfoSec.  
+- 🎮 I enjoy anime and gaming during my free time.  
+- 🌌 Huge Star Wars fan.  
+- 👋 My name is Eric Wilson, but you can call me **eric**.
 
 ---
 
-<h3 align="left">📫 Conecte-se comigo:</h3>
+### 🛠️ Projects & Ongoing Learning
+
+- 🔍 Currently working on cybersecurity-related projects focused on audit simulations, automation scripts, and risk documentation.  
+- 📁 Portfolio soon to include real-world inspired case studies and threat simulations.  
+- ❤️ I welcome feedback and contributions—feel free to check out my repos!
+
+---
+
+<h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eric-wilson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric wilson" height="30" width="40" /></a>
 <a href="https://instagram.com/eri_wilwil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eri_wilwil" height="30" width="40" /></a>
@@ -38,7 +38,7 @@
 
 ---
 
-<h3 align="left">⚙️ Linguagens e Ferramentas:</h3>
+<h3 align="left">🧰 Languages & Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -48,13 +48,4 @@
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://pngimg.com/uploads/photoshop/photoshop_PNG1.png" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-</p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eriiwilson&show_icons=true&locale=en&layout=compact" alt="eriiwilson" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eriiwilson&show_icons=true&locale=en" alt="eriiwilson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eriiwilson&" alt="eriiwilson" /></p>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40
