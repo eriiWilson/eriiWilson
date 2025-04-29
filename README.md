@@ -25,10 +25,13 @@
 ### 🛠️ Projects & Ongoing Learning
 
 - 🔍 Currently working on cybersecurity-related projects focused on audit simulations, automation scripts, and risk documentation.  
-- 📁 Portfolio now includes real-world inspired case studies from the **Google Cybersecurity Certificate**:  
+- 📁 Portfolio includes real-world inspired case studies from the **Google Cybersecurity Certificate**:  
   - 🧱 [Incident Report: SYN Flood Attack](https://github.com/eriiWilson/google-cybersecurity-labs/tree/main/incident-report-syn-flood)  
   - 🕵️ [Brute Force Malware Attack](https://github.com/eriiWilson/google-cybersecurity-labs/tree/main/brute-force-malware-attack)  
-- ❤️ I welcome feedback and contributions—feel free to check out my repos!
+- 🖥️ New: **Azure SOC Home Lab** project building a honeypot and SIEM environment:  
+  - 🌐 [Azure SOC Home Lab - Honeypot + Sentinel SIEM](https://github.com/eriiWilson/home-lab-azure-soc)  
+
+❤️ I welcome feedback and contributions—feel free to check out my repos!
 
 ---
 
